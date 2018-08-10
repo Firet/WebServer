@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Firet/web-server#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.8"
   }
 }
